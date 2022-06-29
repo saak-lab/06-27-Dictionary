@@ -11,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url(/assets/png/blob-scene-haikei.png);
+  background-image: url(png/blob-scene-haikei.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
