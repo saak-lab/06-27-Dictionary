@@ -11,9 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url(png/blob-scene-haikei.png);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: linear-gradient(#191769, #3d3bb1);
 }
 /* wrapper styling */
 .wrapper {
